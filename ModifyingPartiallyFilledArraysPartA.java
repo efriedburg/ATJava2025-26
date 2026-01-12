@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ManipulatingPartiallyFilledArraysPartA {
+public class ModifyingPartiallyFilledArraysPartA {
     
     public static int remove(double[] array, int currentSize, int targetIndex) {
         if (targetIndex < 0 || targetIndex >= currentSize) {
@@ -63,3 +63,4 @@ public class ManipulatingPartiallyFilledArraysPartA {
        
         }
     }
+
