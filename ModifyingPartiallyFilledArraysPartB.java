@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ManipulatingPartiallyFilledArraysPartB {
+public class ModifyingPartiallyFilledArraysPartB {
 
     public static int insert(double[] array, int currentSize, int targetIndex, double newElement) {
         if (currentSize >= array.length) {
@@ -72,3 +72,4 @@ public class ManipulatingPartiallyFilledArraysPartB {
        
         }
     }
+
